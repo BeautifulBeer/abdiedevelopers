@@ -19,7 +19,7 @@
         "firebase": "^6.3.5",
         "font-awesome": "^4.7.0",
         "github-markdown-css": "^3.0.1",
-        "marked": "^0.7.0",
+        "marked": "^4.0.10",
         "npm": "^6.10.3",
         "register-service-worker": "^1.6.2",
         "v-markdown-editor": "^1.0.8",
